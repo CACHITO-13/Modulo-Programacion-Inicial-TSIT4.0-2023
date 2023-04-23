@@ -2,7 +2,7 @@
 
 ---
 
-<a href="url"><img src="./logo.png" align="left" height="300"></a>
+<a href="url"><img src="./logo.png" align="center" height="300"></a>
 
 ## **Proyecto integrador Módulo Programador**
 
