@@ -1,5 +1,7 @@
 <h1 align="center">ISPC Innovación con Tecnologías 4.0</h1>
 
+---
+
 <a href="url"><img src="./logo.png" align="left" height="300"></a>
 
 ## **Proyecto integrador Módulo Programador**
