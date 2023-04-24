@@ -10,4 +10,7 @@
 
 - **Aliendro Javier** | Estudiante de Innovación con Tecnologías 4.0 y Telecomunicaciones | [Ver GitHub](https://github.com/CACHITO-13)
 - **Leonardo Agustin Vilarrubi** | Estudiante de Innovación con Tecnologías 4.0 | [Ver GitHub](https://github.com/Vilax2)
+- **Nadia Yamila Martinez** | Estudiante de Innovación con Tecnologías 4.0 | [Ver GitHub](https://github.com/Nadii00)
+
+
 
